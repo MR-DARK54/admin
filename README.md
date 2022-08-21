@@ -22,7 +22,13 @@ ls
 
 
 
+
+
+
+
 chmod +x *
+
+
 
 
 
@@ -37,4 +43,14 @@ python security-admin.py
 
 
 
-Then put the name of the site 
+Then put the name of the site
+
+
+
+
+accept http or https 
+
+
+
+
+For educational purpose only, or if the owner of the site loses access to the control panel, you are responsible  
